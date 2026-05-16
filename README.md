@@ -6,7 +6,7 @@ Analista de Sistemas na Stefanini e estudante de Bacharelado em Sistemas de Info
 
 ## 🔭 Sobre mim
 - 💼 **Atualidade:** Atuando no ecossistema de Data Center da Stefanini, com foco em monitoramento de infraestrutura, suporte especializado via ServiceNow e garantia de qualidade (QA).
-- 🧠 **Evolução Técnica:** Sempre buscando aplicar boas práticas de engenharia de software e IA para criar soluções funcionais e automatizadas.
+- 🧠 **Evolução Técnica:** Sempre buscando aplicar boas práticas de engenharia de software e IA para criar soluções funcionais e inovadoras.
 - 📍 **Localização:** Osasco - SP.
 
 ---
@@ -14,12 +14,12 @@ Analista de Sistemas na Stefanini e estudante de Bacharelado em Sistemas de Info
 ## 🛠️ Competências Técnicas
 
 ### 💻 Desenvolvimento e Programação
-- **Linguagens e Lógica:** Python, Lógica de Programação avançada e Desenvolvimento de Interfaces Gráficas.
+- **Linguagens e Lógica:** Python, Lógica de Programação Avançada e Desenvolvimento de Interfaces Gráficas.
 - **Gestão de Dados:** Consultas e manipulação de bancos de dados com SQL.
 
 ### 📐 Engenharia de Software e Processos
 - **Metodologias Ágeis:** Vivência prática com ritos Scrum (Dailies, Planning, Review) utilizando Jira e Azure DevOps.
-- **Análise e Requisitos:** Levantamento de requisitos, especificação técnica funcional e documentação técnica (UML, dicionários de dados).
+- **Análise e Requisitos:** Levantamento de requisitos, concepção técnica funcional e documentação técnica (UML, dicionários de dados).
 - **Qualidade (QA):** Execução de testes de aceitação (UAT) e testes funcionais.
 
 ### ⚙️ Infraestrutura, ITSM e IA
@@ -33,7 +33,7 @@ Analista de Sistemas na Stefanini e estudante de Bacharelado em Sistemas de Info
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | 📈 **[Gráficos de Dólar](https://github.com/Guilherme-Moraisdev/Graficos-de-Dolar)** | Análise, coleta e visualização gráfica de dados financeiros do valor do dólar. | `Python`, `Análise de Dados` |
-| 🎨 **[Interface Gráfica Python](https://github.com/Guilherme-Moraisdev/-Interface-Gr-fica-Python)** | Desenvolvimento de modelos estruturados e intuitivos de interface gráfica para o usuário (GUI). | `Python`, `Tkinter`/`CustomTkinter` |
+| 🎨 **[Interface Gráfica Python](https://github.com/Guilherme-Moraisdev/-Interface-Gr-fica-Python)** | Desenvolvimento de modelos estruturados e intuitivos de interface gráfica para o usuário (GUI). | `Python`, `Tkinter` / `CustomTkinter` |
 | 🎵 **[Aplicativo de Música](https://github.com/Guilherme-Moraisdev/Aplicativo-de-M-sica)** | Reprodutor musical funcional focado na prática de lógica e arquitetura de sistemas. | `Python`, `Lógica de Programação` |
 
 ---
@@ -46,7 +46,9 @@ Analista de Sistemas na Stefanini e estudante de Bacharelado em Sistemas de Info
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub do Guilherme](https://github-readme-stats.vercel.app/api?username=Guilherme-Moraisdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Moraisdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
