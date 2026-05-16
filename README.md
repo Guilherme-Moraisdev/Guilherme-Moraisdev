@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0077B5&height=200&section=header&text=Guilherme%20Morais&subtitle=Analista%20de%20Sistemas&fontSize=40&subFontSize=20&fontAlignY=40&subAlignY=65&theme=dark" alt="Banner do Guilherme" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=0077B5&center=true&vCenter=true&width=500&height=100&lines=Guilherme+Morais;Analista+de+Sistemas;Software+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
 Analista de Sistemas na Stefanini e estudante de Bacharelado em Sistemas de Informação. Atuo com foco em Engenharia de Software, análise de requisitos e desenvolvimento de soluções inteligentes utilizando Python e Inteligência Artificial.
