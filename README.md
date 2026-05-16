@@ -1,5 +1,3 @@
-## # Olá, eu sou o Guilherme Morais! 👋
-
 # Olá, eu sou o Guilherme Morais! 👋
 
 Analista de Sistemas na Stefanini e estudante de Bacharelado em Sistemas de Informação. Atuo com foco em Engenharia de Software, análise de requisitos e desenvolvimento de soluções inteligentes utilizando Python e Inteligência Artificial.
