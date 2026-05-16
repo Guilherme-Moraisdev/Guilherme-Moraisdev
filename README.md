@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Guilherme%20Morais&subtitle=Analista%20de%20Sistemas&fontSize=40&subFontSize=20&fontAlignY=40&subAlignY=65&theme=dark" alt="Banner do Guilherme" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0077B5&height=200&section=header&text=Guilherme%20Morais&subtitle=Analista%20de%20Sistemas&fontSize=40&subFontSize=20&fontAlignY=40&subAlignY=65&theme=dark" alt="Banner do Guilherme" />
 </p>
 
 Analista de Sistemas na Stefanini e estudante de Bacharelado em Sistemas de Informação. Atuo com foco em Engenharia de Software, análise de requisitos e desenvolvimento de soluções inteligentes utilizando Python e Inteligência Artificial.
