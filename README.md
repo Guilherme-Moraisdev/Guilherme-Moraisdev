@@ -66,12 +66,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Moraisdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Moraisdev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Moraisdev&theme=tokyonight"/>
 </p>
 ---
 
