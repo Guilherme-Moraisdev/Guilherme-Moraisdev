@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 
 🎯 Atualmente trabalho como **Analista de Sistemas na Stefanini**, com foco em monitoramento de infraestrutura, suporte especializado via ServiceNow e garantia de qualidade operacional.
-
+🎓 Sou formado em Gestão da Tecnologia da Informação
 🎓 Sou estudante de **Bacharelado em Sistemas de Informação**.
 
 💡 Tenho interesse em **Engenharia de Software, Python, SQL, Inteligência Artificial, automação e desenvolvimento de sistemas**.
@@ -28,10 +28,6 @@
 - Desenvolvimento de Interfaces Gráficas
 - Estruturação de projetos
 
-### 🗄️ Dados
-- SQL
-- Consultas e manipulação de banco de dados
-- Análise e visualização de dados
 
 ### ⚙️ Engenharia de Software e Processos
 - Levantamento de requisitos
@@ -60,7 +56,7 @@
 ---
 
 ## 🎓 Formação e Certificações
-
+- 🎓 Formado em Gestão da Tecnologia da Informação
 - 🎓 Bacharelado em Sistemas de Informação — Cursando
 - 🧠 Cursos complementares: Python, Engenharia de Software, Inteligência Artificial e Computacional
 - 🏢 Experiência em ambiente corporativo com suporte, monitoramento e sistemas
