@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-🎯 Atualmente atuo como **Analista de Sistemas na Stefanini**, com foco em monitoramento de infraestrutura, suporte especializado via ServiceNow e garantia de qualidade operacional.
+🎯 Atualmente trabalho como **Analista de Sistemas na Stefanini**, com foco em monitoramento de infraestrutura, suporte especializado via ServiceNow e garantia de qualidade operacional.
 
 🎓 Sou estudante de **Bacharelado em Sistemas de Informação**.
 
