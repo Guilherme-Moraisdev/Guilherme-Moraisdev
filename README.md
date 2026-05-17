@@ -1,4 +1,10 @@
-<h1 align="center">Olá, eu sou o Guilherme Morais 👋</h1>
+<div align="center">
+
+# 👨‍💻 Guilherme Morais
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Analista+de+Sistemas;Estudante+de+Sistemas+de+Informação;Desenvolvedor+em+formação;Python+%7C+SQL+%7C+C%23+%7C+.NET+%7C+IA" />
+
+</div>
 
 <p align="center">
   <b>Analista de Sistemas | Estudante de Sistemas de Informação | Python, SQL e IA</b>
